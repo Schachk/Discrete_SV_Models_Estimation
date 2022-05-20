@@ -14,6 +14,7 @@ Master Thesis (Simulation-based Estimation of Discrete Stochastic Volatility Mod
 
 ### III/ Applications
 - Option Pricing
+- Portfolio Optimization
 - Volatility Premium
 - Discrete SV Models vs. Discretized Continuous-time SV models
 - Risks Measurement
