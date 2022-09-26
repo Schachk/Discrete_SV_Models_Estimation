@@ -1,20 +1,19 @@
-# Simulation-based Estimation of Discrete SV Models & Applications
-Master Thesis (Simulation-based Estimation of Discrete Stochastic Volatility Models and Applications)
+# Estimating Discrete Stochastic Volatility Models & Application to Risk Measures Estimation
+Master Thesis (Estimating Discrete Stochastic Volatility Models & Application to Risk Measures Estimation)
 
-### I/ Simulation-based Methods of Estimation
-- Theory of HMM
-- MCMC
-- EM algorithm
-- Other techniques (e.g. Indirect Inference)
+### I/ Introduction
 
-### II/ Estimation of Various SV Models
-- Factor SV
-- Fractionally-integrated SV
-- Multivariate SV
+### II/ Overview of the Existing Estimation Methods in the Literature
+- Traditional Approaches in Short
+- Simulation-Based Methods
 
-### III/ Applications
-- Option Pricing
-- Portfolio Optimization
-- Volatility Premium
-- Discrete SV Models vs. Discretized Continuous-time SV models
-- Risks Measurement
+### III/ Detailed Description of the Chosen Methods and Implementation
+- Motivation
+- The Methods in Details
+- Monte Carlo Experiments
+
+### IV/ Applications
+- Risk Measures Estimation
+- Volatility Risk Premium
+
+### V/ Conclusions
